@@ -1,0 +1,551 @@
+{| class="wikitable"
+!Item
+!Sprite
+!Code
+!Source
+|-
+| TAMAVERSE OBJECT
+| [[File:743 TAMAVERSE OBJECT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SLIDE
+| [[File:745 SLIDE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CRADLE
+| [[File:746 CRADLE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SWING
+| [[File:750 SWING Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BUS
+| [[File:779 BUS Paradise sprite.png|center]]
+| Exists
+|
+|-
+| TRAIN
+| [[File:740 TRAIN Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SHOPPING CART
+| [[File:780 SHOPPING CART Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SHOPPING BASKET
+| [[File:781 SHOPPING BASKET Paradise sprite.png|center]]
+| Exists
+|
+|-
+| HAMBURGER CUSHION
+| [[File:782 HAMBURGER CUSHION Paradise sprite.png|center]]
+| Exists
+|
+|-
+| JACK-IN-THE-BOX
+| [[File:783 JACK-IN-THE-BOX Paradise sprite.png|center]]
+| Exists
+|
+|-
+| TOY PIANO
+| [[File:784 TOY PIANO Paradise sprite.png|center]]
+| Exists
+|
+|-
+| TAMAGOTCHI PLUSHES
+| [[File:785 TAMAGOTCHI PLUSHES Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CHRISTMAS TREE
+| [[File:786 CHRISTMAS TREE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BATHTUB
+| [[File:787 BATHTUB Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CRANE GAME
+| [[File:741 CRANE GAME Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BOOK
+| [[File:788 BOOK Paradise sprite.png|center]]
+| Exists
+|
+|-
+| MAGAZINE
+| [[File:789 MAGAZINE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| MANGA
+| [[File:790 MANGA Paradise sprite.png|center]]
+| Exists
+|
+|-
+| PEN
+| [[File:791 PEN Paradise sprite.png|center]]
+| Exists
+|
+|-
+| POUCH
+| [[File:792 POUCH Paradise sprite.png|center]]
+| Exists
+|
+|-
+| T-SHIRT
+| [[File:793 T-SHIRT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| STANDING MIC
+| [[File:794 STANDING MIC Paradise sprite.png|center]]
+| Exists
+|
+|-
+| GASHAPON MACHINE
+| [[File:795 GASHAPON MACHINE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| PRINCE TAMAHIKO'S UFO
+| [[File:796 PRINCE TAMAHIKO'S UFO Paradise sprite.png|center]]
+| Exists
+|
+|-
+| UMAHIKO OUTSIDE TOY
+| [[File:797 UMAHIKO OUTSIDE TOY Paradise sprite.png|center]]
+| Exists
+|
+|-
+| ACADEMIC CAP
+| [[File:923 ACADEMIC CAP Paradise sprite.png|center]]
+| Exists
+|
+|-
+| MEOWTCHI PLUSH
+| [[File:924 MEOWTCHI PLUSH Paradise sprite.png|center]]
+| Exists
+|
+|-
+| IRUKATCHI PLUSH
+| [[File:925 IRUKATCHI PLUSH Paradise sprite.png|center]]
+| Exists
+|
+|-
+| HORHOTCHI PLUSH
+| [[File:926 HORHOTCHI PLUSH Paradise sprite.png|center]]
+| Exists
+|
+|-
+| MAMETCHI PLUSH
+| [[File:927 MAMETCHI PLUSH Paradise sprite.png|center]]
+| Exists
+|
+|-
+| KUCHIPATCHI PLUSH
+| [[File:928 KUCHIPATCHI PLUSH Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BABYMARUTCHI PLUSH
+| [[File:929 BABYMARUTCHI PLUSH Paradise sprite.png|center]]
+| Exists
+|
+|-
+| JINS GLASSES
+| [[File:930 JINS GLASSES Paradise sprite.png|center]]
+| Exists
+|
+|-
+| LIGHT STICK
+| [[File:931 LIGHT STICK Paradise sprite.png|center]]
+| Exists
+|
+|-
+| TAMA BACKPACK
+| [[File:932 TAMA BACKPACK Paradise sprite.png|center]]
+| Exists
+|
+|-
+| TAMA POUCH
+| [[File:933 TAMA POUCH Paradise sprite.png|center]]
+| Exists
+|
+|-
+| HANDY ROCKET
+| [[File:934 HANDY ROCKET Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CELL PHONE
+| [[File:935 CELL PHONE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| LOVELY RIBBON
+| [[File:936 LOVELY RIBBON Paradise sprite.png|center]]
+| Exists
+|
+|-
+| PLANET RING
+| [[File:937 PLANET RING Paradise sprite.png|center]]
+| Exists
+|
+|-
+| MEOWTCHI HEADBAND
+| [[File:938 MEOWTCHI HEADBAND Paradise sprite.png|center]]
+| Exists
+|
+|-
+| IRUKATCHI HAT
+| [[File:939 IRUKATCHI HAT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| HORHOTCHI WING
+| [[File:940 HORHOTCHI WING Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SHOOTING STAR HEADBAND
+| [[File:941 SHOOTING STAR HEADBAND Paradise sprite.png|center]]
+| Exists
+|
+|-
+| HORNS HEADBAND
+| [[File:942 HORNS HEADBAND Paradise sprite.png|center]]
+| Exists
+|
+|-
+| MUSHROOM HAT
+| [[File:943 MUSHROOM HAT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| RICE CAKES
+| [[File:944 RICE CAKES Paradise sprite.png|center]]
+| Exists
+|
+|-
+| MT. FUJI HAT
+| [[File:945 MT. FUJI HAT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SOMBRERO
+| [[File:946 SOMBRERO Paradise sprite.png|center]]
+| Exists
+|
+|-
+| PLUM BLOSSOM ORNAMENT
+| [[File:947 PLUM BLOSSOM ORNAMENT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CHEF HAT
+| [[File:948 CHEF HAT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| RAINBOW AFRO
+| [[File:949 RAINBOW AFRO Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BALLOONS
+| [[File:950 BALLOONS Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CANDY CANE
+| [[File:951 CANDY CANE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| LEAF CROWN
+| [[File:952 LEAF CROWN Paradise sprite.png|center]]
+| Exists
+|
+|-
+| RABBIT HAT
+| [[File:953 RABBIT HAT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| LANTERN
+| [[File:954 LANTERN Paradise sprite.png|center]]
+| Exists
+|
+|-
+| TAMA CHINESE HAT
+| [[File:955 TAMA CHINESE HAT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| WHITE CHOCOLATE MASCOT
+| [[File:956 WHITE CHOCOLATE MASCOT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BLACK & WHITE BREAD
+| [[File:1067 BLACK & WHITE BREAD Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BLACK & WHITE BURGER
+| [[File:1068 BLACK & WHITE BURGER Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BLACK & WHITE PIE
+| [[File:1069 BLACK & WHITE PIE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CUP OF NOODLES
+| [[File:1070 CUP OF NOODLES Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BREAD
+| [[File:1071 BREAD Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BBQ
+| [[File:1072 BBQ Paradise sprite.png|center]]
+| Exists
+|
+|-
+| DUMPLINGS
+| [[File:1073 DUMPLINGS Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SANDWICHES
+| [[File:1074 SANDWICHES Paradise sprite.png|center]]
+| Exists
+|
+|-
+| TAKOYAKI
+| [[File:1075 TAKOYAKI Paradise sprite.png|center]]
+| Exists
+|
+|-
+| PASTA
+| [[File:1076 PASTA Paradise sprite.png|center]]
+| Exists
+|
+|-
+| PIZZA
+| [[File:1077 PIZZA Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SUSHI
+| [[File:1078 SUSHI Paradise sprite.png|center]]
+| Exists
+|
+|-
+| HAMBURGER
+| [[File:1079 HAMBURGER Paradise sprite.png|center]]
+| Exists
+|
+|-
+| FRENCH FRIES
+| [[File:1080 FRENCH FRIES Paradise sprite.png|center]]
+| Exists
+|
+|-
+| RAMEN
+| [[File:1081 RAMEN Paradise sprite.png|center]]
+| Exists
+|
+|-
+| UDON
+| [[File:1082 UDON Paradise sprite.png|center]]
+| Exists
+|
+|-
+| FRIED CHICKEN
+| [[File:1083 FRIED CHICKEN Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CURRY RICE
+| [[File:1084 CURRY RICE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| RICE BOWL
+| [[File:1085 RICE BOWL Paradise sprite.png|center]]
+| Exists
+|
+|-
+| RICE BALL
+| [[File:1086 RICE BALL Paradise sprite.png|center]]
+| Exists
+|
+|-
+| HAMBURG STEAK
+| [[File:1087 HAMBURG STEAK Paradise sprite.png|center]]
+| Exists
+|
+|-
+| TACOS
+| [[File:1088 TACOS Paradise sprite.png|center]]
+| Exists
+|
+|-
+| PAELLA
+| [[File:1089 PAELLA Paradise sprite.png|center]]
+| Exists
+|
+|-
+| BOLO
+| [[File:1108 BOLO Paradise sprite.png|center]]
+| Exists
+|
+|-
+| YUKINOYADO
+| [[File:1109 YUKINOYADO Paradise sprite.png|center]]
+| Exists
+|
+|-
+| PARI PARI BAR
+| [[File:1110 PARI PARI BAR Paradise sprite.png|center]]
+| Exists
+|
+|-
+| JUICE
+| [[File:1111 JUICE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SNACK CUP
+| [[File:1112 SNACK CUP Paradise sprite.png|center]]
+| Exists
+|
+|-
+| POTATO CHIPS
+| [[File:1113 POTATO CHIPS Paradise sprite.png|center]]
+| Exists
+|
+|-
+| YOGURT
+| [[File:1114 YOGURT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CHOCOLATE
+| [[File:1115 CHOCOLATE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| ICE CREAM
+| [[File:1116 ICE CREAM Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SOFT SERVE
+| [[File:1117 SOFT SERVE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| GUMMIES
+| [[File:1118 GUMMIES Paradise sprite.png|center]]
+| Exists
+|
+|-
+| DONUT
+| [[File:1119 DONUT Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CAKE
+| [[File:1120 CAKE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| WAFERS
+| [[File:1121 WAFERS Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SODA CANDIES
+| [[File:1122 SODA CANDIES Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CANDY
+| [[File:1123 CANDY Paradise sprite.png|center]]
+| Exists
+|
+|-
+| DRINK
+| [[File:1124 DRINK Paradise sprite.png|center]]
+| Exists
+|
+|-
+| PUDDING
+| [[File:1125 PUDDING Paradise sprite.png|center]]
+| Exists
+|
+|-
+| COOKIE
+| [[File:1126 COOKIE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| SUNDAE
+| [[File:1127 SUNDAE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| GUM
+| [[File:1128 GUM Paradise sprite.png|center]]
+| Exists
+|
+|-
+| TAITCHIYAKI
+| [[File:1129 TAITCHIYAKI Paradise sprite.png|center]]
+| Exists
+|
+|-
+| MARSHMALLOWS
+| [[File:1130 MARSHMALLOWS Paradise sprite.png|center]]
+| Exists
+|
+|-
+| CREPE
+| [[File:1131 CREPE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| COTTON CANDY
+| [[File:1132 COTTON CANDY Paradise sprite.png|center]]
+| Exists
+|
+|-
+| GALETTE
+| [[File:1133 GALETTE Paradise sprite.png|center]]
+| Exists
+|
+|-
+| COFFEE
+| [[File:1134 COFFEE Paradise sprite.png|center]]
+| Exists
+|
+|}
