@@ -61,6 +61,11 @@
 | 7059 | SmallOutsideToy | GASHAPON MACHINE | ![GASHAPON MACHINE](images/7059.png) | 700 | 350 | ➖ | ✔️ | ✔️ | Exists |
 | 7060 | SmallOutsideToy | PRINCE TAMAHIKO'S UFO | ![PRINCE TAMAHIKO'S UFO](images/7060.png) | 400 | 200 | ➖ | ✔️ | ✔️ | Exists |
 | 7061 | SmallOutsideToy | UMAHIKO OUTSIDE TOY | ![UMAHIKO OUTSIDE TOY](images/7061.png) | 300 | 150 | ➖ | ✔️ | ✔️ | Exists |
+| 7062 | LargeOutsideToy | BRIDGE | ![BRIDGE](images/7062.png) | 2000 | 1000 | 2 | ❌ | ✔️ |  |
+| 7063 | LargeOutsideToy | BAMBOO STEAMER | ![BAMBOO STEAMER](images/7063.png) | 1600 | 800 | 4 | ❌ | ✔️ |  |
+| 7064 | SmallOutsideToy | LOTUS CUSHION | ![LOTUS CUSHION](images/7064.png) | 500 | 250 | 5 | ❌ | ✔️ |  |
+| 7065 | SmallOutsideToy | GONG | ![GONG](images/7065.png) | 600 | 300 | 3 | ❌ | ✔️ |  |
+| 7066 | SmallOutsideToy | RAMEN BOWL | ![RAMEN BOWL](images/7066.png) | 300 | 150 | 1 | ❌ | ✔️ |  |
 | 8001 | PlanetHat | CREPE HAT | ![CREPE HAT](images/8001.png) | ❌ | 600 | ➖ | ❌ | ✔️ |  |
 | 8002 | PlanetAccessory | FRUIT BALLOONS | ![FRUIT BALLOONS](images/8002.png) | ❌ | 500 | ➖ | ❌ | ✔️ |  |
 | 8003 | PlanetHat | TURBAN | ![TURBAN](images/8003.png) | ❌ | 600 | ➖ | ❌ | ✔️ |  |
@@ -139,6 +144,14 @@
 | 8076 | PlanetAccessory | LANTERN | ![LANTERN](images/8076.png) | 500 | 250 | ➖ | ✔️ | ✔️ | Exists |
 | 8077 | PlanetHat | TAMA CHINESE HAT | ![TAMA CHINESE HAT](images/8077.png) | 600 | 300 | ➖ | ✔️ | ✔️ | Exists |
 | 8078 | PlanetHat | WHITE CHOCOLATE MASCOT | ![WHITE CHOCOLATE MASCOT](images/8078.png) | 460 | 230 | ➖ | ✔️ | ✔️ | Exists |
+| 8079 | PlanetAccessory | NICE FAN | ![NICE FAN](images/8079.png) | 330 | 165 | 3 | ❌ | ✔️ |  |
+| 8080 | PlanetHat | LION DANCE HAT | ![LION DANCE HAT](images/8080.png) | 440 | 220 | 2 | ❌ | ✔️ |  |
+| 8081 | PlanetGlasses | FOX MASK | ![FOX MASK](images/8081.png) | 1050 | 525 | 1 | ❌ | ✔️ |  |
+| 8082 | PlanetAccessory | LUTE | ![LUTE](images/8082.png) | 880 | 440 | 5 | ❌ | ✔️ |  |
+| 8083 | PlanetHat | DARUMA SUIT | ![DARUMA SUIT](images/8083.png) | 780 | 390 | 4 | ❌ | ✔️ |  |
+| 8084 | PlanetAccessory | GOTCHI COIN | ![GOTCHI COIN](images/8084.png) | 500 | 250 | 4 | ❌ | ✔️ |  |
+| 8085 | PlanetHat | SNOW FLAKE TIARA | ![SNOW FLAKE TIARA](images/8085.png) | ❌ | 700 | ➖ | ❌ | ✔️ |  |
+| 8086 | PlanetAccessory | SNOW FLAKE WAND | ![SNOW FLAKE WAND](images/8086.png) | ❌ | 500 | ➖ | ❌ | ✔️ |  |
 | 5001 | Food | MILK | ![MILK](images/5001.png) | ❌ | ❌ | ➖ | ❌ | ❌ |  |
 | 5002 | Food | PELLETS | ![PELLETS](images/5002.png) | ❌ | ❌ | ➖ | ❌ | ❌ |  |
 | 5003 | Food | BIG MEAT | ![BIG MEAT](images/5003.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
@@ -194,6 +207,17 @@
 | 5053 | Food | HAMBURG STEAK | ![HAMBURG STEAK](images/5053.png) | 700 | ❌ | ➖ | ✔️ | ✔️ | Exists |
 | 5054 | Food | TACOS | ![TACOS](images/5054.png) | 500 | ❌ | ➖ | ✔️ | ✔️ | Exists |
 | 5055 | Food | PAELLA | ![PAELLA](images/5055.png) | 800 | ❌ | ➖ | ✔️ | ✔️ | Exists |
+| 5056 | Food | CHASHU PORK | ![CHASHU PORK](images/5056.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
+| 5057 | Food | PEKING MEAT | ![PEKING MEAT](images/5057.png) | ❌ | 10 | ➖ | ❌ | ✔️ |  |
+| 5058 | Food | BAMBOO GRASS | ![BAMBOO GRASS](images/5058.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
+| 5059 | Food | SESAME LEAVES | ![SESAME LEAVES](images/5059.png) | ❌ | 10 | ➖ | ❌ | ✔️ |  |
+| 5060 | Food | PERSIMMON | ![PERSIMMON](images/5060.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
+| 5061 | Food | POMEGRANATE | ![POMEGRANATE](images/5061.png) | ❌ | 10 | ➖ | ❌ | ✔️ |  |
+| 5062 | Food | WARM BUNS | ![WARM BUNS](images/5062.png) | 800 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5063 | Food | BAMBOO LEAF RICE CAKE | ![BAMBOO LEAF RICE CAKE](images/5063.png) | 400 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5064 | Food | SESAME PANCAKE | ![SESAME PANCAKE](images/5064.png) | 600 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5065 | Food | CHE THAI | ![CHE THAI](images/5065.png) | 500 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5066 | Invalid | INFORMATION | ![INFORMATION](images/5066.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 6001 | Snack | JELLY STICK | ![JELLY STICK](images/6001.png) | ❌ | ❌ | ➖ | ❌ | ❌ |  |
 | 6002 | Snack | BE RED JUICE | ![BE RED JUICE](images/6002.png) | 5000 | ❌ | ➖ | ❌ | ✔️ |  |
 | 6003 | Snack | BE BLUE JUICE | ![BE BLUE JUICE](images/6003.png) | 5000 | ❌ | ➖ | ❌ | ✔️ |  |
@@ -239,6 +263,9 @@
 | 6043 | Snack | COTTON CANDY | ![COTTON CANDY](images/6043.png) | 200 | ❌ | ➖ | ✔️ | ✔️ | Exists |
 | 6044 | Snack | GALETTE | ![GALETTE](images/6044.png) | 200 | ❌ | ➖ | ✔️ | ✔️ | Exists |
 | 6045 | Snack | COFFEE | ![COFFEE](images/6045.png) | 100 | ❌ | ➖ | ✔️ | ✔️ | Exists |
+| 6046 | Snack | BE DARK GREEN JUICE | ![BE DARK GREEN JUICE](images/6046.png) | 5000 | ❌ | ➖ | ❌ | ✔️ |  |
+| 6047 | Snack | RANDOM BOBA | ![RANDOM BOBA](images/6047.png) | 3000 | ❌ | ➖ | ❌ | ✔️ |  |
+| 6048 | Invalid |  |  | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 9901 | VisitablePlanet | SWEET | ![SWEET](images/9901.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 9902 | VisitablePlanet | RELAX | ![RELAX](images/9902.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 9903 | VisitablePlanet | FOODIE | ![FOODIE](images/9903.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
@@ -246,3 +273,4 @@
 | 9905 | VisitablePlanet | NINJA | ![NINJA](images/9905.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 9906 | VisitablePlanet | ECO | ![ECO](images/9906.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 9907 | VisitablePlanet | MUSIC | ![MUSIC](images/9907.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
+| 9908 | VisitablePlanet | ICE | ![ICE](images/9908.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
