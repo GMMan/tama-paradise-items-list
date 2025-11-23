@@ -217,7 +217,7 @@
 | 5063 | Food | BAMBOO LEAF RICE CAKE | ![BAMBOO LEAF RICE CAKE](images/5063.png) | 400 | ❌ | ➖ | ❌ | ✔️ |  |
 | 5064 | Food | SESAME PANCAKE | ![SESAME PANCAKE](images/5064.png) | 600 | ❌ | ➖ | ❌ | ✔️ |  |
 | 5065 | Food | CHE THAI | ![CHE THAI](images/5065.png) | 500 | ❌ | ➖ | ❌ | ✔️ |  |
-| 5066 | Invalid | INFORMATION | ![INFORMATION](images/5066.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
+| 5066 | Invalid |  |  | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 6001 | Snack | JELLY STICK | ![JELLY STICK](images/6001.png) | ❌ | ❌ | ➖ | ❌ | ❌ |  |
 | 6002 | Snack | BE RED JUICE | ![BE RED JUICE](images/6002.png) | 5000 | ❌ | ➖ | ❌ | ✔️ |  |
 | 6003 | Snack | BE BLUE JUICE | ![BE BLUE JUICE](images/6003.png) | 5000 | ❌ | ➖ | ❌ | ✔️ |  |
