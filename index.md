@@ -66,6 +66,27 @@
 | 7064 | SmallOutsideToy | LOTUS CUSHION | ![LOTUS CUSHION](images/7064.png) | 500 | 250 | 5 | ❌ | ✔️ |  |
 | 7065 | SmallOutsideToy | GONG | ![GONG](images/7065.png) | 600 | 300 | 3 | ❌ | ✔️ |  |
 | 7066 | SmallOutsideToy | RAMEN BOWL | ![RAMEN BOWL](images/7066.png) | 300 | 150 | 1 | ❌ | ✔️ |  |
+| 7067 | LargeOutsideToy | STAGE | ![STAGE](images/7067.png) | 2000 | 1000 | 2 | ❌ | ✔️ |  |
+| 7068 | LargeOutsideToy | BALL | ![BALL](images/7068.png) | 1800 | 900 | 1 | ❌ | ✔️ |  |
+| 7069 | SmallOutsideToy | BANANA TREE | ![BANANA TREE](images/7069.png) | 877 | 439 | 2 | ❌ | ✔️ |  |
+| 7070 | SmallOutsideToy | CAMPFIRE | ![CAMPFIRE](images/7070.png) | 550 | 275 | 2 | ❌ | ✔️ |  |
+| 7071 | SmallOutsideToy | SWINGING VINES | ![SWINGING VINES](images/7071.png) | 1300 | 650 | 1 | ❌ | ✔️ |  |
+| 7072 | LargeOutsideToy | IGLOO | ![IGLOO](images/7072.png) | 1100 | 550 | 5 | ❌ | ✔️ |  |
+| 7073 | LargeOutsideToy | ICE SKATING RINK | ![ICE SKATING RINK](images/7073.png) | 2000 | 1000 | 3 | ❌ | ✔️ |  |
+| 7074 | SmallOutsideToy | SNOWMAN KIT | ![SNOWMAN KIT](images/7074.png) | 1400 | 700 | 4 | ❌ | ✔️ |  |
+| 7075 | SmallOutsideToy | SKATEBOARD | ![SKATEBOARD](images/7075.png) | 1080 | 540 | 1 | ❌ | ✔️ |  |
+| 7076 | SmallOutsideToy | ICY HOLE | ![ICY HOLE](images/7076.png) | 2140 | 1070 | 5 | ❌ | ✔️ |  |
+| 7998 | SmallOutsideToy | NICE BOX | ![NICE BOX](images/7998.png) | ❌ | ❌ | ➖ | ❌ | ❌ |  |
+| 7078 | LargeOutsideToy | TROPICAL POOL | ![TROPICAL POOL](images/7078.png) | 2060 | 1030 | 2 | ❌ | ✔️ |  |
+| 7079 | LargeOutsideToy | ICE CASTLE | ![ICE CASTLE](images/7079.png) | 4600 | 2400 | 3 | ❌ | ✔️ |  |
+| 7080 | LargeOutsideToy | ICY FERRIS WHEEL | ![ICY FERRIS WHEEL](images/7080.png) | 2000 | 1000 | 3 | ❌ | ✔️ |  |
+| 7081 | LargeOutsideToy | TROPICAL MERRY-GO-ROUND | ![TROPICAL MERRY-GO-ROUND](images/7081.png) | 2000 | 1000 | 5 | ❌ | ✔️ |  |
+| 7082 | LargeOutsideToy | BIG BED | ![BIG BED](images/7082.png) | 1300 | 650 | 3 | ❌ | ✔️ |  |
+| 7083 | SmallOutsideToy | CHILLY DRUM | ![CHILLY DRUM](images/7083.png) | 500 | 250 | 5 | ❌ | ✔️ |  |
+| 7084 | SmallOutsideToy | TROPICAL PARASOL | ![TROPICAL PARASOL](images/7084.png) | 700 | 350 | 2 | ❌ | ✔️ |  |
+| 7085 | SmallOutsideToy | FLAMINGO SWIM RING | ![FLAMINGO SWIM RING](images/7085.png) | 600 | 300 | 2 | ❌ | ✔️ |  |
+| 7086 | SmallOutsideToy | SHAVED ICE OBJECT | ![SHAVED ICE OBJECT](images/7086.png) | 800 | 400 | 4 | ❌ | ✔️ |  |
+| 7087 | SmallOutsideToy | BUB | ![BUB](images/7087.png) | 820 | 410 | ➖ | ✔️ | ✔️ | Exists |
 | 8001 | PlanetHat | CREPE HAT | ![CREPE HAT](images/8001.png) | ❌ | 600 | ➖ | ❌ | ✔️ |  |
 | 8002 | PlanetAccessory | FRUIT BALLOONS | ![FRUIT BALLOONS](images/8002.png) | ❌ | 500 | ➖ | ❌ | ✔️ |  |
 | 8003 | PlanetHat | TURBAN | ![TURBAN](images/8003.png) | ❌ | 600 | ➖ | ❌ | ✔️ |  |
@@ -152,6 +173,28 @@
 | 8084 | PlanetAccessory | GOTCHI COIN | ![GOTCHI COIN](images/8084.png) | 500 | 250 | 4 | ❌ | ✔️ |  |
 | 8085 | PlanetHat | SNOW FLAKE TIARA | ![SNOW FLAKE TIARA](images/8085.png) | ❌ | 700 | ➖ | ❌ | ✔️ |  |
 | 8086 | PlanetAccessory | SNOW FLAKE WAND | ![SNOW FLAKE WAND](images/8086.png) | ❌ | 500 | ➖ | ❌ | ✔️ |  |
+| 8087 | PlanetAccessory | COCONUT JUICE | ![COCONUT JUICE](images/8087.png) | 300 | 150 | 1 | ❌ | ✔️ |  |
+| 8088 | PlanetAccessory | FIERY STICK | ![FIERY STICK](images/8088.png) | 300 | 150 | 4 | ❌ | ✔️ |  |
+| 8089 | PlanetHat | FRUIT BASKET | ![FRUIT BASKET](images/8089.png) | 1100 | 550 | 1 | ❌ | ✔️ |  |
+| 8090 | PlanetHat | HIBISCUS | ![HIBISCUS](images/8090.png) | 400 | 200 | 3 | ❌ | ✔️ |  |
+| 8091 | PlanetGlasses | SNORKEL SET | ![SNORKEL SET](images/8091.png) | 600 | 300 | 5 | ❌ | ✔️ |  |
+| 8092 | PlanetAccessory | UKULELE & LEI | ![UKULELE & LEI](images/8092.png) | 800 | 400 | 3 | ❌ | ✔️ |  |
+| 8093 | PlanetAccessory | GLOVE | ![GLOVE](images/8093.png) | 310 | 155 | 2 | ❌ | ✔️ |  |
+| 8094 | PlanetHat | FLUFFY HAT | ![FLUFFY HAT](images/8094.png) | 900 | 450 | 2 | ❌ | ✔️ |  |
+| 8095 | PlanetHat | EARMUFFS | ![EARMUFFS](images/8095.png) | 500 | 250 | 5 | ❌ | ✔️ |  |
+| 8096 | PlanetAccessory | SNOWMAN PLUSH | ![SNOWMAN PLUSH](images/8096.png) | 800 | 400 | 5 | ❌ | ✔️ |  |
+| 8097 | PlanetGlasses | PENGUIN BEAK | ![PENGUIN BEAK](images/8097.png) | 100 | 50 | 4 | ❌ | ✔️ |  |
+| 8098 | PlanetAccessory | SPLENDID SLEIGH | ![SPLENDID SLEIGH](images/8098.png) | 1200 | 600 | 3 | ❌ | ✔️ |  |
+| 8099 | PlanetHat | ASCENSION HAT | ![ASCENSION HAT](images/8099.png) | ❌ | 1040 | ➖ | ❌ | ✔️ |  |
+| 8100 | PlanetAccessory | HOLY BELL | ![HOLY BELL](images/8100.png) | ❌ | 1040 | ➖ | ❌ | ✔️ |  |
+| 8101 | PlanetHat | MONSTER HORNS | ![MONSTER HORNS](images/8101.png) | ❌ | 666 | ➖ | ❌ | ✔️ |  |
+| 8102 | PlanetAccessory | TRIDENT | ![TRIDENT](images/8102.png) | ❌ | 666 | ➖ | ❌ | ✔️ |  |
+| 8103 | PlanetAccessory | COLORFUL WING | ![COLORFUL WING](images/8103.png) | 300 | 150 | ➖ | ✔️ | ✔️ | Exists |
+| 8104 | PlanetHat | SLEEPY FRIEND HEADBAND | ![SLEEPY FRIEND HEADBAND](images/8104.png) | 300 | 150 | ➖ | ✔️ | ✔️ | Exists |
+| 8105 | PlanetGlasses | MEGRHYTHM | ![MEGRHYTHM](images/8105.png) | 260 | 130 | ➖ | ✔️ | ✔️ | Exists |
+| 8106 | PlanetAccessory | PAROROTCHI PLUSH | ![PAROROTCHI PLUSH](images/8106.png) | 300 | 150 | ➖ | ✔️ | ✔️ | Exists |
+| 8107 | PlanetHat | ACADEMIC CAP | ![ACADEMIC CAP](images/8107.png) | 1200 | 600 | ➖ | ✔️ | ✔️ | Exists |
+| 8108 | PlanetAccessory | BOOK | ![BOOK](images/8108.png) | 360 | 180 | ➖ | ✔️ | ✔️ | Exists |
 | 5001 | Food | MILK | ![MILK](images/5001.png) | ❌ | ❌ | ➖ | ❌ | ❌ |  |
 | 5002 | Food | PELLETS | ![PELLETS](images/5002.png) | ❌ | ❌ | ➖ | ❌ | ❌ |  |
 | 5003 | Food | BIG MEAT | ![BIG MEAT](images/5003.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
@@ -217,7 +260,26 @@
 | 5063 | Food | BAMBOO LEAF RICE CAKE | ![BAMBOO LEAF RICE CAKE](images/5063.png) | 400 | ❌ | ➖ | ❌ | ✔️ |  |
 | 5064 | Food | SESAME PANCAKE | ![SESAME PANCAKE](images/5064.png) | 600 | ❌ | ➖ | ❌ | ✔️ |  |
 | 5065 | Food | CHE THAI | ![CHE THAI](images/5065.png) | 500 | ❌ | ➖ | ❌ | ✔️ |  |
-| 5066 | Invalid |  |  | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
+| 5066 | Food | TROPICAL STEAK | ![TROPICAL STEAK](images/5066.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
+| 5067 | Food | TROPICAL PATTY | ![TROPICAL PATTY](images/5067.png) | ❌ | 10 | ➖ | ❌ | ✔️ |  |
+| 5068 | Food | TROPICAL FRUITS | ![TROPICAL FRUITS](images/5068.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
+| 5069 | Food | BANANA | ![BANANA](images/5069.png) | ❌ | 10 | ➖ | ❌ | ✔️ |  |
+| 5070 | Food | BUTTERFLY SNACKS | ![BUTTERFLY SNACKS](images/5070.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
+| 5071 | Food | MEAL CRITTERS | ![MEAL CRITTERS](images/5071.png) | ❌ | 10 | ➖ | ❌ | ✔️ |  |
+| 5072 | Food | HAWAIIAN BURGER | ![HAWAIIAN BURGER](images/5072.png) | 800 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5073 | Food | FRUIT JELLY | ![FRUIT JELLY](images/5073.png) | 600 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5074 | Food | BANANA ON A STICK | ![BANANA ON A STICK](images/5074.png) | 400 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5075 | Food | BUTTERFLY SALAD | ![BUTTERFLY SALAD](images/5075.png) | 500 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5076 | Food | FROZEN MEAT | ![FROZEN MEAT](images/5076.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
+| 5077 | Food | CANNED MEAT | ![CANNED MEAT](images/5077.png) | ❌ | 10 | ➖ | ❌ | ✔️ |  |
+| 5078 | Food | NORTHEN SEAFOOD | ![NORTHEN SEAFOOD](images/5078.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
+| 5079 | Food | SALMON ROE | ![SALMON ROE](images/5079.png) | ❌ | 10 | ➖ | ❌ | ✔️ |  |
+| 5080 | Food | BEET | ![BEET](images/5080.png) | ❌ | 20 | ➖ | ❌ | ✔️ |  |
+| 5081 | Food | RED BERRIES | ![RED BERRIES](images/5081.png) | ❌ | 10 | ➖ | ❌ | ✔️ |  |
+| 5082 | Food | BEEF STROGANOFF | ![BEEF STROGANOFF](images/5082.png) | 800 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5083 | Food | BLINIS | ![BLINIS](images/5083.png) | 600 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5084 | Food | BORSCHT | ![BORSCHT](images/5084.png) | 700 | ❌ | ➖ | ❌ | ✔️ |  |
+| 5085 | Food | HOT TEA WITH JAM | ![HOT TEA WITH JAM](images/5085.png) | 500 | ❌ | ➖ | ❌ | ✔️ |  |
 | 6001 | Snack | JELLY STICK | ![JELLY STICK](images/6001.png) | ❌ | ❌ | ➖ | ❌ | ❌ |  |
 | 6002 | Snack | BE RED JUICE | ![BE RED JUICE](images/6002.png) | 5000 | ❌ | ➖ | ❌ | ✔️ |  |
 | 6003 | Snack | BE BLUE JUICE | ![BE BLUE JUICE](images/6003.png) | 5000 | ❌ | ➖ | ❌ | ✔️ |  |
@@ -265,7 +327,10 @@
 | 6045 | Snack | COFFEE | ![COFFEE](images/6045.png) | 100 | ❌ | ➖ | ✔️ | ✔️ | Exists |
 | 6046 | Snack | BE DARK GREEN JUICE | ![BE DARK GREEN JUICE](images/6046.png) | 5000 | ❌ | ➖ | ❌ | ✔️ |  |
 | 6047 | Snack | RANDOM BOBA | ![RANDOM BOBA](images/6047.png) | 3000 | ❌ | ➖ | ❌ | ✔️ |  |
-| 6048 | Invalid |  |  | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
+| 6048 | Snack | GOLDEN PEACH | ![GOLDEN PEACH](images/6048.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
+| 6049 | Snack | SUNSUN ORANGE  | ![SUNSUN ORANGE ](images/6049.png) | 3000 | ❌ | ➖ | ❌ | ✔️ |  |
+| 6050 | Snack | WHITE SLUSHY | ![WHITE SLUSHY](images/6050.png) | 3000 | ❌ | ➖ | ❌ | ✔️ |  |
+| 6051 | Snack | SOFT SERVE | ![SOFT SERVE](images/6051.png) | 150 | ❌ | ➖ | ✔️ | ✔️ | Exists |
 | 9901 | VisitablePlanet | SWEET | ![SWEET](images/9901.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 9902 | VisitablePlanet | RELAX | ![RELAX](images/9902.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 9903 | VisitablePlanet | FOODIE | ![FOODIE](images/9903.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
@@ -274,3 +339,5 @@
 | 9906 | VisitablePlanet | ECO | ![ECO](images/9906.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 9907 | VisitablePlanet | MUSIC | ![MUSIC](images/9907.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
 | 9908 | VisitablePlanet | ICE | ![ICE](images/9908.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
+| 9909 | VisitablePlanet | ANGEL | ![ANGEL](images/9909.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
+| 9910 | VisitablePlanet | MONSTER | ![MONSTER](images/9910.png) | ❌ | ❌ | ➖ | ❌ | ✔️ |  |
